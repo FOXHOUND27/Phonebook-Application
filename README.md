@@ -56,7 +56,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Running the Program
 ### Once you have set up the project, you can run the PhonebookApp.java file:
 
-####Compile the program:
+#### Compile the program:
 
 
 
@@ -75,12 +75,12 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Contributors
 ### This project is a group assignment, with each group member contributing to various aspects of the design, implementation, and testing of the phonebook application.
 
-Group Members:
-Dalglish Lisulo 218054092
-[Member 2 Name] (Student Number)
-[Member 3 Name] (Student Number)
-[Member 4 Name] (Student Number)
-[Member 5 Name] (Student Number)
+### Group Members:
+#### Dalglish Lisulo 218054092
+#### [Member 2 Name] (Student Number)
+#### [Member 3 Name] (Student Number)
+#### [Member 4 Name] (Student Number)
+#### [Member 5 Name] (Student Number)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
