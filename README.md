@@ -25,12 +25,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Project Overview
 #### This project is designed to provide a simple phonebook application for a telecommunications operator. The application uses basic linear data structures such as arrays (or lists) to perform operations like inserting, searching, displaying, deleting, updating, and sorting contacts. The goal is to explore the efficiency of these operations and offer a basic solution to contact management.
 
-## The project is divided into two parts:
 
-### Pseudocode Representation (Section A)
-#### Design the algorithms for the phonebook operations.
-## Practical Implementation (Section B)
-#### Implement these algorithms using Java.
 ### Features
 #### Insert Contact: Add new contacts with names and phone numbers.
 #### Search Contact: Search for contacts by name.
