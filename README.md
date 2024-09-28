@@ -23,7 +23,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 #### License
 
 ## Project Overview
-### This project is designed to provide a simple phonebook application for a telecommunications operator. The application uses basic linear data structures such as arrays (or lists) to perform operations like inserting, searching, displaying, deleting, updating, and sorting contacts. The goal is to explore the efficiency of these operations and offer a basic solution to contact management.
+#### This project is designed to provide a simple phonebook application for a telecommunications operator. The application uses basic linear data structures such as arrays (or lists) to perform operations like inserting, searching, displaying, deleting, updating, and sorting contacts. The goal is to explore the efficiency of these operations and offer a basic solution to contact management.
 
 ## The project is divided into two parts:
 
