@@ -30,6 +30,9 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Flowchart
 ![image alt](https://github.com/FOXHOUND27/Phonebook-Application/blob/798de84943218bc8dd2e248b3d32a8803dbf0a5c/DSA%20Diagram.jpg)
 
+## Pseudocode
+![image alt](https://github.com/FOXHOUND27/Phonebook-Application/blob/d864203881ed08ba947e00540c20154824e38535/Pseuduocode.jpg)
+
 
 ### Features
 #### Insert Contact: Add new contacts with names and phone numbers.
