@@ -4,6 +4,8 @@ A simple phonebook application to manage contacts using basic linear data struct
 
 ### Table of Contents
 #### Project Overview
+#### Flowchart
+#### Pseudocode
 #### Features
 #### Getting Started
 #### Prerequisites
@@ -24,6 +26,9 @@ A simple phonebook application to manage contacts using basic linear data struct
 
 ## Project Overview
 #### This project is designed to provide a simple phonebook application for a telecommunications operator. The application uses basic linear data structures such as arrays (or lists) to perform operations like inserting, searching, displaying, deleting, updating, and sorting contacts. The goal is to explore the efficiency of these operations and offer a basic solution to contact management.
+
+##Flowchart
+![image alt](https://github.com/FOXHOUND27/Phonebook-Application/blob/798de84943218bc8dd2e248b3d32a8803dbf0a5c/DSA%20Diagram.jpg)
 
 
 ### Features
