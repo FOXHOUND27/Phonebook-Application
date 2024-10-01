@@ -67,26 +67,25 @@ A simple phonebook application to manage contacts using basic linear data struct
 ### The project is divided into the following main components:
 
 #### PhonebookApp.java   # The main entry point of the program.
-#### Contact.java        # The Contact class representing a contact with a name and phone number.
+#### Contact.java        # The Contact class represents a contact with a name and phone number.
 
 #### .gitignore          # Specifies files to ignore in the repository.
 
 #### Contact.java: This file defines the Contact class, which contains attributes for a contact's name and phone number.
 
-#### PhonebookApp.java: The main logic of the program resides here, including all the phonebook operations (insert, search, display, delete, update, sort).
+#### PhonebookApp.java: The program's main logic, including all the phonebook operations (insert, search, display, delete, update, sort), is located here.
 
 ## Contributors
 ### This project is a group assignment, with each group member contributing to various aspects of the design, implementation, and testing of the phonebook application.
 
 ### Group Members:
 #### Dalglish Lisulo 218054092
-#### [Member 2 Name] (Student Number)
-#### [Member 3 Name] (Student Number)
-#### [Member 4 Name] (Student Number)
-#### [Member 5 Name] (Student Number)
-#### [Member 6 Name] (Student Number)
-#### [Member 4 Name] (Student Number)
-#### [Member 5 Name] (Student Number)
+#### Frans Hafeni    224017616
+#### Izane Barman    224027514
+#### Alexsandra Uira  223055289
+#### Linda Mutileni   223138266
+#### Raphael Hatzkin 224091581
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
