@@ -12,7 +12,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 #### Installation
 #### Running the Program
 
-## Modules/Functions
+### Modules/Functions
 
 #### Insert Contact
 #### Search Contact
@@ -78,7 +78,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Contributors
 ### This project is a group assignment, with each group member contributing to various aspects of the design, implementation, and testing of the phonebook application.
 
-### Group Members:
+## Group Members:
 #### Dalglish Lisulo 218054092
 #### Frans Hafeni    224017616
 #### Izane Barman    224027514
