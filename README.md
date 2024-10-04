@@ -80,10 +80,7 @@ A simple phonebook application to manage contacts using basic linear data struct
 
 ## Group Members:
 #### Dalglish Lisulo 218054092
-#### Frans Hafeni    224017616
-#### Izane Barman    224027514
-#### Alexsandra Uira  223055289
-#### Linda Mutileni   223138266
+
 #### Raphael Hatzkin 224091581
 
 
