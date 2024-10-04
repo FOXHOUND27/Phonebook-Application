@@ -81,8 +81,6 @@ A simple phonebook application to manage contacts using basic linear data struct
 ## Group Members:
 #### Dalglish Lisulo 218054092
 
-#### Raphael Hatzkin 224091581
-
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
